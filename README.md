@@ -5,11 +5,11 @@ bastantes funcionalidades, le puse un fondo chulo, una cabeza a la serpiente y l
 plano. 
 
 Cada 5 huevos fritos que se come aumenta la velocidad, a partir de 15 es prácticamente injugable. Hay una tecla secreta para reducir la velocidad, tendrás que 
-rebuscar en el código fuente para avergiuar cuál es (no es tan difícil). Hay un contador de puntuación y los mensajes están escritos en spanglish sin ningún tipo
+rebuscar en el código fuente para averiguar cuál es (no es tan difícil). Hay un contador de puntuación y los mensajes están escritos en spanglish sin ningún tipo
 de motivo. 
 
 Además la serpiente atraviesa la pantalla de un lado a otro, que es algo que de pequeño me fascinaba cuando jugaba en el viejo Nokia 3330 de mi padre. 
-¿Cómo demonios puede la serpiente atravesar la pantalla por un extremo de la pantalla y reaparecer por el contrario? Pues resulta que no era tan difícil codificarlo. 
+¿Cómo demonios puede la serpiente atravesar la pantalla por un extremo y reaparecer por el contrario? Pues resulta que no era tan difícil codificarlo. 
 
 Dejo a continuación un par de imágenes del funcionamiento. La tipografía, por supuesto, es ComicSans. 
 
